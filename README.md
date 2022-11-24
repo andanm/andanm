@@ -9,7 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science by iNeuron.ai
 - 🤔 I’m looking for help to get the job in Data Analyst 
 - 💬 Ask me about Business Development, Basic of Python, Machine learning Alogorithms
-- 📫 How to reach me in LinkedIn by https://www.linkedin.com/in/andan-m-854bb824a
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...Happy to listen to music anything to brustout the stress😬
--->
+- 📫 How to reach me in LinkedIn by https://www.linkedin.com/in/andan-m-854bb824
+- ⚡ Fun fact: ...Happy to listen to music anytime to brustout the stress😀😉
