@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science by iNeuron.ai
 - 🤔 I’m looking for help to get the job in Data Analyst 
 - 💬 Ask me about Business Development, Basic of Python, Machine learning Alogorithms
-- 📫 How to reach me:
+- 📫 How to reach me
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
