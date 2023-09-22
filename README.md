@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at INDO-MIM Private Limited as Business Analysts
-- 🌱 I’m currently learning Data Science by iNeuron.ai
+- 🔭 I’m currently working for Kaseya as Sales Compensation Analysts
 - 🤔 I’m looking for help to get the job in Data Analyst 
 - 💬 Ask me about Business Development, Basic of Python, Machine learning Alogorithms
 - 📫 How to reach me in LinkedIn by https://www.linkedin.com/in/andan-m/
